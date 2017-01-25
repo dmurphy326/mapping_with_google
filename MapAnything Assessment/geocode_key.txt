@@ -1,0 +1,5 @@
+Google Maps API key:
+AIzaSyDiBTfPmZhea2dK1f8uB9RGWYKZcMFWTzw
+
+key=API_KEY
+
